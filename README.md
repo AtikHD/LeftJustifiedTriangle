@@ -17,6 +17,6 @@ This project turns simple loops into a visual rhythm—perfect for beginners who
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/LeftJustifiedTriangle.git
+   git clone https://github.com/AtikHD/LeftJustifiedTriangle.git
    cd LeftJustifiedTriangle
 java LeftJustifiedTriangle
